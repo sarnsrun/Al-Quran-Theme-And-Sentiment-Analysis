@@ -1,4 +1,4 @@
-# Al‑Quran Theme & Sentiment Analysis
+ # Al‑Quran Theme & Sentiment Analysis
 
 Apply NLP techniques to the Quran: classifying verses by theme and sentiment using pre-trained models.
 

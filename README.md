@@ -49,8 +49,8 @@ Al-Quran-Theme-And-Sentiment-Analysis/
    ```bash
    git clone https://github.com/sarnsrun/Al-Quran-Theme-And-Sentiment-Analysis.git
    cd Al-Quran-Theme-And-Sentiment-Analysis
-````
-
+   ```
+   
 2. **Install dependencies**
 
    ```bash

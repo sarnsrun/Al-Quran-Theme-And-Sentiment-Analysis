@@ -111,8 +111,6 @@ Al-Quran-Theme-And-Sentiment-Analysis/
 
 ## ⚙️ Requirements
 
-**requirements.txt sample**:
-
 Install all required dependencies with:
 
 ```bash

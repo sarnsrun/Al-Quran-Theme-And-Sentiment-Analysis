@@ -113,16 +113,12 @@ Al-Quran-Theme-And-Sentiment-Analysis/
 
 **requirements.txt sample**:
 
-```txt
-pandas
-numpy
-nltk
-scikit-learn
-transformers
-matplotlib
-seaborn
-jupyter
+Install all required dependencies with:
+
+```bash
+pip install -r requirements.txt
 ```
+Make sure you have Python 3.8 or newer and access to a Jupyter environment (e.g., JupyterLab, VSCode, or Google Colab).
 
 ---
 
